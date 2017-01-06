@@ -11,4 +11,4 @@ Android Phone<br>
 Google Vision API (key) <a href="https://developers.google.com/vision/">Link</a> <a href="https://developers.google.com/android/reference/com/google/android/gms/vision/package-summary">API</a><br>
 
 # Test
-<a href="https://play.google.com/store/apps/details?id=com.socialherb.openeyes">Google Play Link </a>
+<a href="https://play.google.com/store/apps/details?id=com.socialherb.openeyes">Google Play Link Demo </a>
